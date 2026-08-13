@@ -1,0 +1,5 @@
+Head_Type,Distortion_Factor,Common_Application
+Elliptical,1.00,Standard Pressure Vessel Heads (most common)
+Hemispherical,0.85,High Pressure Vessels (best strength-to-distortion)
+Torispherical,1.10,Low-Medium Pressure Vessels
+Flat,1.35,Low Pressure / Small Diameter Vessels (highest distortion risk)

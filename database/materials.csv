@@ -1,0 +1,10 @@
+Material,Density_kg_m3,Yield_Strength_MPa,Tensile_Strength_MPa,Elastic_Modulus_GPa,Thermal_Conductivity_W_mK,Coefficient_of_Thermal_Expansion_um_mC,Specific_Heat_J_kgK,Weldability,Typical_Process,Preheat_Required,Common_Applications
+SA516 Grade 70,7850,260,485,200,60.5,11.7,486,Excellent,SMAW,No,Pressure Vessels
+Carbon Steel,7850,250,460,200,54,12.0,490,Good,SMAW,No,Storage Tanks
+SS304,8000,215,505,193,16.2,17.3,500,Excellent,GTAW,No,Food & Chemical Equipment
+SS316,8000,205,515,193,16.3,16.0,500,Excellent,GTAW,No,Chemical & Marine Equipment
+SA515 Grade 60,7850,220,415,200,60,11.7,486,Good,SMAW,No,Pressure Vessels (moderate/low temp service)
+IS 2062 Grade B,7850,250,410,200,51,12.0,486,Good,SMAW,No,Structural & Pressure Vessel Fabrication (India)
+SS321,8000,205,515,193,16.1,16.6,500,Excellent,GTAW,No,High Temperature Chemical Equipment
+Duplex 2205,7800,450,620,200,19,13.0,480,Good,GTAW,No,Marine & Chemical (High Strength)
+Aluminum 5083,2660,145,290,70,117,23.8,900,Good,GMAW,No,Lightweight Pressure Vessels

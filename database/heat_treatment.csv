@@ -1,0 +1,13 @@
+Material,Min_Thickness,Max_Thickness,PWHT,Temperature_C,Holding_Time
+SA516 Grade 70,0,38,Not Required,-,-
+SA516 Grade 70,38,200,Required,595-620,1 hr per 25 mm
+Carbon Steel,0,38,Not Required,-,-
+Carbon Steel,38,200,Required,595-620,1 hr per 25 mm
+SS304,0,200,Not Required,-,-
+SS316,0,200,Not Required,-,-
+SA515 Grade 60,0,32,Not Required,-,-
+SA515 Grade 60,32,200,Required,595-620,1 hr per 25 mm
+IS 2062 Grade B,0,200,Not Required,-,-
+SS321,0,200,Not Required,-,-
+Duplex 2205,0,200,Not Required,-,-
+Aluminum 5083,0,200,Not Required,-,-

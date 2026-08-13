@@ -1,0 +1,5 @@
+Risk,Recommendation
+Low,Standard welding sequence is sufficient.
+Medium,Use balanced welding sequence and moderate heat input.
+High,Reduce heat input and use back-step welding technique.
+Very High,Use controlled welding sequence with intermediate cooling and distortion monitoring.

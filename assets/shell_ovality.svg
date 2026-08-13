@@ -1,0 +1,13 @@
+<svg viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+<rect width="160" height="160" rx="16" fill="#EAF5FF"/>
+<circle cx="80" cy="80" r="46" fill="none" stroke="#9CCCF5" stroke-width="2" stroke-dasharray="5,5"/>
+<ellipse cx="80" cy="80" rx="52" ry="38" fill="#AFD8F5" fill-opacity="0.55" stroke="#2196F3" stroke-width="3"/>
+<line x1="80" y1="42" x2="80" y2="28" stroke="#1976D2" stroke-width="2.5" marker-end="url(#arrow1)"/>
+<line x1="132" y1="80" x2="146" y2="80" stroke="#1976D2" stroke-width="2.5" marker-end="url(#arrow1)"/>
+<defs>
+<marker id="arrow1" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+<path d="M0,0 L8,4 L0,8 Z" fill="#1976D2"/>
+</marker>
+</defs>
+<text x="80" y="150" text-anchor="middle" font-family="Poppins, sans-serif" font-size="12" fill="#243447" font-weight="600">Shell Ovality</text>
+</svg>

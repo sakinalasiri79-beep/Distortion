@@ -1,0 +1,5 @@
+Process,Shielding_Gas,Flow_Rate_L_min
+SMAW,None,-
+GTAW,100% Argon,10-15
+GMAW,80% Argon + 20% CO₂,15-20
+FCAW,CO₂ or Argon-CO₂ Mix,18-22

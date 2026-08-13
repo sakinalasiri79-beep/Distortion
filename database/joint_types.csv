@@ -1,0 +1,4 @@
+Joint_Type,Recommended_Groove,Distortion_Factor,Difficulty
+Butt Joint,V Groove,1.00,Medium
+Fillet Joint,Fillet,1.20,Easy
+Lap Joint,Lap,1.35,Easy

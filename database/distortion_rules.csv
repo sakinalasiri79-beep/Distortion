@@ -1,0 +1,5 @@
+Thickness_Min,Thickness_Max,Angular_Distortion_deg,Longitudinal_Shrinkage_mm,Risk,Recommended_Action
+4,10,0.4,1.2,Low,Normal welding sequence
+10,20,0.8,2.4,Medium,Balanced welding sequence
+20,40,1.5,4.0,High,Reduce heat input and use back-step welding
+40,60,2.2,5.8,Very High,Use controlled sequence with cooling intervals

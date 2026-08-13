@@ -1,0 +1,13 @@
+<svg viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+<rect width="160" height="160" rx="16" fill="#FFF3E6"/>
+<line x1="20" y1="110" x2="140" y2="110" stroke="#F5C98B" stroke-width="2" stroke-dasharray="5,5"/>
+<path d="M20,110 Q80,60 140,110" fill="none" stroke="#F39C12" stroke-width="4" stroke-linecap="round"/>
+<circle cx="80" cy="82" r="14" fill="#FFF3E6" stroke="#D9820A" stroke-width="3"/>
+<line x1="80" y1="82" x2="80" y2="55" stroke="#D9820A" stroke-width="2" marker-end="url(#arrow2)"/>
+<defs>
+<marker id="arrow2" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+<path d="M0,0 L8,4 L0,8 Z" fill="#D9820A"/>
+</marker>
+</defs>
+<text x="80" y="150" text-anchor="middle" font-family="Poppins, sans-serif" font-size="12" fill="#243447" font-weight="600">Bulging Near Nozzle</text>
+</svg>

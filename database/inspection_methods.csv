@@ -1,0 +1,10 @@
+Material,Inspection_Method,Acceptance_Standard,Purpose
+SA516 Grade 70,Radiographic Testing (RT),ASME Section VIII,Detect internal weld defects
+Carbon Steel,Ultrasonic Testing (UT),ASME Section VIII,Detect internal discontinuities
+SS304,Dye Penetrant Testing (PT),ASME Section V,Detect surface cracks
+SS316,Dye Penetrant Testing (PT),ASME Section V,Detect surface cracks
+SA515 Grade 60,Radiographic Testing (RT),ASME Section VIII,Detect internal weld defects
+IS 2062 Grade B,Ultrasonic Testing (UT),ASME Section VIII,Detect internal discontinuities
+SS321,Dye Penetrant Testing (PT),ASME Section V,Detect surface cracks
+Duplex 2205,Dye Penetrant Testing (PT),ASME Section V,Detect surface cracks; avoid over-etching
+Aluminum 5083,Dye Penetrant Testing (PT),ASME Section V,Detect surface cracks (non-magnetic material)

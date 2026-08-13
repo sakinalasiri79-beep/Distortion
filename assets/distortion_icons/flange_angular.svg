@@ -1,0 +1,10 @@
+<svg viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+<rect width="160" height="160" rx="16" fill="#F3ECFB"/>
+<line x1="40" y1="110" x2="120" y2="110" stroke="#CDB3EA" stroke-width="2" stroke-dasharray="5,5"/>
+<line x1="40" y1="110" x2="125" y2="88" stroke="#9B6FD1" stroke-width="4" stroke-linecap="round"/>
+<circle cx="42" cy="109" r="3" fill="#9B6FD1"/>
+<circle cx="123" cy="89" r="3" fill="#9B6FD1"/>
+<path d="M60,110 A35,35 0 0 0 65,98" fill="none" stroke="#6A3FA0" stroke-width="2"/>
+<text x="70" y="106" font-family="Poppins, sans-serif" font-size="13" fill="#6A3FA0" font-weight="700">&#952;</text>
+<text x="80" y="150" text-anchor="middle" font-family="Poppins, sans-serif" font-size="12" fill="#243447" font-weight="600">Flange Face Angular</text>
+</svg>
